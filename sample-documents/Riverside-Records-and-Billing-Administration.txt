@@ -1,0 +1,29 @@
+Riverside Community Hospital (Fictional)
+Medical Records Requests and Billing Administration - Version 1.4
+FICTIONAL DOCUMENT FOR SOFTWARE DEMONSTRATION ONLY. Riverside Community Hospital does not exist. This is not medical advice.
+
+1. Requesting a copy of records
+A patient may request a copy of their records by submitting Form MR-10 to the Health Information Office, in person or through the patient portal. A photo ID is required. Requests are processed within 10 business days of receipt of a complete form.
+
+2. Copy fees
+The first 20 pages of a paper copy are free. Additional pages are charged at USD 0.25 per page. Electronic copies delivered through the patient portal are always free.
+
+3. Authorized representatives
+A person who requests records on behalf of a patient must provide Form MR-12, signed by the patient, together with their own photo ID. Requests without a valid signed authorization are returned with an explanation.
+
+4. Billing statements
+Billing statements are issued monthly on the 5th day of the month. Payment is due within 30 days of the statement date. A reminder is sent if a payment has not been received after 45 days.
+
+5. Payment plans
+Patients with a balance above USD 200 may request a payment plan of up to 12 months. The minimum monthly payment is USD 25. Requests are made to Patient Accounts by telephone or through the patient portal.
+
+6. Financial assistance
+Patients who cannot pay in full may apply for financial assistance using Form FA-3 and proof of household income. A decision is made within 15 business days of receiving a complete application.
+
+7. Billing disputes
+Disputed charges must be reported to Patient Accounts in writing within 60 days of the statement date. The charge is placed on hold while it is reviewed.
+
+8. Collections
+An account may only be referred to an external collections agency after 120 days and after a final written notice has been sent.
+
+Document owner: Office of Patient Accounts. Effective date: 15 February 2025.

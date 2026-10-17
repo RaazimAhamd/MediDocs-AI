@@ -1,0 +1,25 @@
+# dependencies and build output
+node_modules/
+dist/
+.angular/
+out-tsc/
+coverage/
+
+# local configuration and data (never commit)
+.env
+.env.*
+!.env.example
+backend/data/
+*.corrupt-*
+
+# logs, OS and editor files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# release artifacts
+*.zip

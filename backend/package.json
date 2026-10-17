@@ -1,0 +1,29 @@
+{
+  "name": "medidocs-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MediDocs AI backend - local RAG API (portfolio demo, not a medical device)",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "preflight": "node scripts/preflight.js",
+    "test": "node --test \"test/unit/**/*.test.js\"",
+    "test:live": "node --test --test-concurrency=1 \"test/live/**/*.live.test.js\"",
+    "smoke": "node scripts/smoke-test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "multer": "^2.0.2",
+    "pdfjs-dist": "^4.10.38",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}
